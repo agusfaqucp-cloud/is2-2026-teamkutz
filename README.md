@@ -8,4 +8,3 @@
 | Lautaro Sebastian Gonzalez | Dev          |                   |
 | Balthazar Ibarra           | Dev          |                   |
 
-is:open 
