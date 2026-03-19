@@ -8,3 +8,4 @@
 | Lautaro Sebastian Gonzalez | Dev          |                   |
 | Balthazar Ibarra           | Dev          |                   |
 
+Nuestro Proyecto lo hicimos elijiendo la opcion A, Sobre una clínica médica necesita digitalizar la asignación de turnos
