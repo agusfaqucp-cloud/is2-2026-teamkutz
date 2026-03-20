@@ -9,3 +9,5 @@ is2-20226teamkutz
 Descripcion breve del proyecto:
 
 Nuestro Proyecto lo hicimos eligiendo la opcion A, Sobre una clínica médica necesita digitalizar la asignación de turnos
+
+https://github.com/users/agusfaqucp-cloud/projects/4
