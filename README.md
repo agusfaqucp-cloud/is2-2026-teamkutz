@@ -1,4 +1,4 @@
-# Trabajo-semana-1-
+is2-20226teamkutz
 | Nombre                     | Rol          | GitHub            | 
 |----------------------------|--------------|-------------------|
 | Olivera Juan Cruz          | Scrum Master | juancruzolivera28 |
