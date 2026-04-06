@@ -1,7 +1,6 @@
 # Patrones de Diseño - TP1
 
 ## Patrón 1: Strategy
-
 ### Intención
 Permitir definir diferentes algoritmos de asignación de turnos y poder intercambiarlos sin modificar el sistema principal.
 
@@ -21,7 +20,6 @@ Esto permite cambiar o agregar nuevas estrategias sin modificar el código exist
 El `GestorTurnos` utiliza una estrategia para crear turnos, delegando la lógica de asignación.
 
 ## Patrón 2: Observer
-
 ### Intención
 Permitir que múltiples objetos sean notificados automáticamente cuando ocurre un cambio en otro objeto.
 
@@ -41,7 +39,6 @@ Esto permite agregar nuevos observadores sin modificar la clase Turno.
 El `Turno` notifica automáticamente a sus observadores cuando cambia su estado.
 
 ## Conclusión
-
 Se aplicaron los patrones Strategy y Observer para mejorar:
 
 - Desacoplamiento del sistema
