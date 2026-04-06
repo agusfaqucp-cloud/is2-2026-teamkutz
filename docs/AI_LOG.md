@@ -12,10 +12,9 @@ Se utilizó IA para:
 - Redactar la documentación técnica
 
 ## Modificaciones realizadas
-- Adaptación de los ejemplos al dominio del sistema de turnos médicos
+- Adaptación de los ejemplos al sistema de turnos médicos
 - Ajuste de nombres de clases y responsabilidades
-- Simplificación de la lógica para cumplir con el alcance del TP1
-- Mejora de la interfaz gráfica para simular un sistema real
+- Mejora de la interfaz gráfica para simular un sistema
 
 ## Justificación del uso
 Se utilizó IA como herramienta de apoyo para acelerar el desarrollo y validar decisiones de diseño.  
